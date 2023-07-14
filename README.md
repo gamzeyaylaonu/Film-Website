@@ -16,4 +16,5 @@ JavaScript,CSS,HTML
 
 <a href=""> gamzeyaylaonu-filmsitesi.netlify.app </a>
 
-![ThankYouThanksGIF](https://github.com/gamzeyaylaonu/Film-Website/assets/135466558/73a81143-d16f-45a3-95fd-9327ef50461b)
+![Thankyou GifGIF](https://github.com/gamzeyaylaonu/Film-Website/assets/135466558/06ab9e85-7ad5-4f56-a072-24b9d7913fd4)
+
