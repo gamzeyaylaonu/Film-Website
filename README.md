@@ -14,6 +14,6 @@ JavaScript,CSS,HTML
 
 <h2> Live Website </h2>
 
-<link gamzeyaylaonu-filmsitesi.netlify.app >
+<link>  gamzeyaylaonu-filmsitesi.netlify.app </link>
 
 ![ThankYouThanksGIF](https://github.com/gamzeyaylaonu/Film-Website/assets/135466558/73a81143-d16f-45a3-95fd-9327ef50461b)
